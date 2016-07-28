@@ -1,0 +1,18 @@
+
+{
+  "name": "happiness_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "knex": "^0.11.9",
+    "pg": "^6.0.3"
+  }
+}
